@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sanammalik04/react-weather-project/issues"
   },
-  "homepage": "https://github.com/sanammalik04/react-weather-project#readme"
+  "homepage": "https://github.com/sanammalik04/react-weather-project#readme",
+  "dependencies": {
+    "create-react-app": "^4.0.3"
+  }
 }
